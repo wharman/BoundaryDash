@@ -2,7 +2,14 @@
 layout: default
 img: Boundary Dash Logo.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Boundary Dash:<br>Services
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  <p>Digital Strategy Development</p>
+  <p>Social Media as a Social Service</p>
+  <p>Community Engagement Strategy Development</p>
+  <p>Community Mapping</p>
+  <p>Volunteer Engagement Strategy</p>
+  <p>Research, Gap Analysis, Audits</p>
+
+
