@@ -2,7 +2,7 @@
 layout: default
 img: Boundary Dash Logo.jpg
 category: Services
-title: Boundary Dash:<br>Services
+title: <br>Services
 description: |
 ---
   <p>Digital Strategy Development</p>
